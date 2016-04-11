@@ -11,7 +11,7 @@ check for prior to logging and label color.
 
 ### Example Usage
 ```
-import logger from 'cf-node-logger';
+import logger from 'cf-log';
 
 logger.logMessage({
   title: 'Request',
