@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import colorLogger from 'cli-color';
 
 export default class logger {
