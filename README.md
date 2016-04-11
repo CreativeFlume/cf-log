@@ -24,15 +24,15 @@ logger.logMessage({
 
 ```
 
+This will log 'Some cookies' when the environment
+variables `NODE_ENV` and `LOG_FEATURE` are set to
+their respective values.
+
 ### Colors
 1. `logger.green (default)`
 2. `logger.red`
 3. `logger.blue`
 4. `logger.yellow`
-
-This will log 'Some cookies' when the environment
-variables `NODE_ENV` and `LOG_FEATURE` are set to
-their respective values.
 
 ### Imagery
 ![](https://raw.githubusercontent.com/CreativeFlume/cf-log/master/assets/usage.png)
