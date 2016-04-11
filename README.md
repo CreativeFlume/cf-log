@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/CreativeFlume/cf-log/master/assets/output.png)
 
-### A conditional logger with colored labels for node.js
+### A Conditional Logger with Colored Labels for Node.js
 
 A simple conditional logger for node.js. Each logging
 statement is configured with a title and message. You
