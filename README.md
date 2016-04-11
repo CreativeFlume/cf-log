@@ -24,8 +24,11 @@ logger.logMessage({
 
 ```
 
-This will log 'Some cookies' when the environment
-variables `NODE_ENV` and `LOG_FEATURE` are set to
+This block of code will log:
+
+> Request&nbsp;&nbsp;&nbsp;&nbsp;Some cookies 
+
+when the environment variables `NODE_ENV` and `LOG_FEATURE` are set to
 their respective values.
 
 ### Colors
