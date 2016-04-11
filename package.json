@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CreativeFlume/cf-node-logger.git"
+    "url": "git+https://github.com/CreativeFlume/cf-log.git"
   },
   "keywords": [
     "node",
