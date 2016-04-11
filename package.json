@@ -1,6 +1,6 @@
 {
   "name": "cf-log",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A conditional logger with colored labels",
   "main": "./dist/logger.js",
   "scripts": {
