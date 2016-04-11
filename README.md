@@ -1,6 +1,6 @@
 # cf-log
 
-<img src="assets/output.png" style="width: 375px">
+<img src="assets/output.png">
 
 ### A conditional logger with colored labels for node.js
 
@@ -35,5 +35,5 @@ variables `NODE_ENV` and `LOG_FEATURE` are set to
 their respective values.
 
 ### Imagery
-<img src="assets/usage.png" style="width: 250px">
-<img src="assets/test.png" style="width: 250px">
+<img src="assets/usage.png">
+<img src="assets/test.png">
