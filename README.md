@@ -9,6 +9,9 @@ statement is configured with a title and message. You
 can optionally add a map of environment variables to
 check for prior to logging and label color.
 
+### Installation ###
+`npm install cf-log`
+
 ### Example Usage
 ```
 import logger from 'cf-log';
