@@ -16,7 +16,7 @@ check for prior to logging and label color.
 ```
 import logger from 'cf-log';
 
-logger.logMessage({
+logger.log({
   title: 'Request',
   message: 'Some cookies',
   env: {
@@ -32,7 +32,8 @@ This block of code will log:
 > Request&nbsp;&nbsp;&nbsp;&nbsp;Some cookies 
 
 when the environment variables `NODE_ENV` and `LOG_FEATURE` are set to
-their respective values.
+their respective values. The env map may contain any arbitrary mapping of 
+environment variables to values.
 
 ### Colors
 1. `logger.green (default)`
